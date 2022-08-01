@@ -63,9 +63,7 @@ select option {
   border-radius: 5px;
   color: #fff;
 }
-/* .gameZone {
-  margin-right: 20px;
-} */
+
 @media screen and (min-width: 300px) and (max-width: 1230px) {
   .App {
     flex-direction: column;
